@@ -1,0 +1,46 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-bottom: 10px;
+  }
+  
+header > h1{
+     color: rgb(140, 32, 216);
+     text-align: center;
+  }
+main{
+      background-color: rgb(141, 32, 216);
+      color:white; 
+      width: 900px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+.pad1{
+  padding-left: 25px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.td {
+  width: 19%;
+}
+
+.td2 {
+  width: 34%;
+}
+
+#MYD{
+  text-transform: uppercase;
+  text-shadow: 10px;
+  font-family: cursive;
+  font-size: 20px;
+  font-style: oblique;
+  text-decoration:  underline red;
+}
+
+
+
